@@ -4,7 +4,7 @@
 go language
 
 #### database 
-mongoDB
+mongoDB (no sql)
 
 #### 3rd Party / librarry
 gin - gionic
